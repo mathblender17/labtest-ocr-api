@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pytesseract
+pillow
+numpy
+python-multipart
+opencv-python-headless
+pyspellchecker
